@@ -23,7 +23,8 @@ button{
     color: white;
     font-style: o
 }
-.welcome{
+.welcome-section{
+    border-bottom: 1px solid gray;
 }
 @media (max-width:500px){
     .welcome{
@@ -34,3 +35,7 @@ button{
 .container{
     overflow: hidden;
 }
+    .download{
+        padding: 5px 90px;
+        
+    }
