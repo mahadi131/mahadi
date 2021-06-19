@@ -23,14 +23,20 @@ button{
     color: white;
     font-style: o
 }
-.welcome{
+.welcome-section{
+    border-bottom: 1px solid gray;
 }
+
+.container{
+    overflow: hidden;
+}
+    .download{
+        padding: 5px 90px;
+        
+    }
 @media (max-width:500px){
     .welcome{
         text-align: center;
 
 
-}
-.container{
-    overflow: hidden;
 }
