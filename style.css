@@ -34,12 +34,12 @@ button{
         padding: 5px 90px;
         
     }
-.dream{
-        border-top: 5px solid red;
-}
 @media (max-width:500px){
     .welcome{
         text-align: center;
 
 
 }
+    .dream{
+        border-top: 5px solid red;
+    }
